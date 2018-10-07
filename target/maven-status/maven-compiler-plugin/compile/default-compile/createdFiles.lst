@@ -1,0 +1,10 @@
+amp\fb\worker\TestFacebookWorkerBean.class
+amp\source\fb\worker\FacebookManagerBean.class
+amp\source\fb\worker\ManagedThreadFactoryImpl.class
+amp\source\fb\base\SourceManagerStorage.class
+amp\source\fb\interfaces\SourceWorkerBeanRemote.class
+amp\source\fb\base\SourceManagerBean.class
+amp\source\fb\interfaces\SourceWorkerBeanLocal.class
+amp\source\fb\base\ThreadWorker.class
+amp\source\fb\impl\FacebookWorker.class
+amp\source\fb\worker\ManagedThreadFactoryImpl$ManagedThread.class
